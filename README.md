@@ -1,2 +1,2 @@
-# tic-tac-toe-mm2021
+# tictactoe
 Created with CodeSandbox
